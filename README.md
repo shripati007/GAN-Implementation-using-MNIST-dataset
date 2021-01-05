@@ -1,0 +1,1 @@
+# GAN implementation example on MNIST data
